@@ -1,7 +1,7 @@
 # back-test
 ## configuration
 1. Go to file **config/default.json**
-2. Replace the value of **mongodb**
+2. Replace the value of **mongodb** for your conection data base
 
 ## Getting Started
 
