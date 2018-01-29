@@ -1,11 +1,5 @@
 # back-test
 
-> prueba backend
-
-## About
-
-This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
-
 ## Getting Started
 
 Getting up and running is as easy as 1, 2, 3.
